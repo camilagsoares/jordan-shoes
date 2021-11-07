@@ -44,7 +44,7 @@ h1{
 export const ContainerPhotoPrincipal = styled.div`
 img{
     width: 100%;
-    height: 480px;
+    height: 370px;
     filter: brightness(50%);
     -moz-user-select: none;
     -webkit-user-select: none;
@@ -52,6 +52,35 @@ img{
     user-select: none;
     -webkit-user-drag: none;
     -webkit-touch-callout: none;
+}
+
+p{
+    &.texto{
+    position: absolute;
+  top: 230px;
+  right: 20px;
+  font-size: 32px;
+  color: white;
+  font-family: 'Montserrat', sans-serif;
+  margin-right: 60vw;
+
+}
+
+&.textoAbaixo{
+    position: absolute;
+  top: 310px;
+  right: 20px;
+  font-size: 18px;
+  color: white;
+  font-family: 'Montserrat', sans-serif;
+  margin-right: 56vw;
+  width: 450px;
+}
+
+::selection{
+    background-color: #EBE9EA;
+    color: #181818;
+}
 }
 
 `
@@ -104,10 +133,11 @@ img{
 :hover{
     -moz-transform: scale(1.1);
 	-webkit-transform: scale(1.1);
-	transform: scale(1.1);
+	transform: scale(1.2);
     cursor: pointer;
 }
 }
+
 
 `
 
@@ -116,6 +146,12 @@ display: grid;
 grid-template-columns: 1fr 1fr 1fr 1fr;
 grid-gap: 2px;
 width: 870px;
+
+&.position{
+    margin-left: 18vh;
+    margin-top: 30px;
+}
+
 
 `
 
