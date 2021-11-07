@@ -6,6 +6,8 @@ import { ContainerHeader } from '../styles/styled'
 import { Footer } from '../styles/styled'
 import { CardProducts } from '../styles/styled'
 import { GridProducts } from '../styles/styled'
+import { ContainerHighlights } from '../styles/styled'
+import { ContainerShipping } from '../styles/styled'
 import photoPrincipal from '../img/foto.jpeg'
 import shoesOne from '../img/1.png'
 import shoesTwo from '../img/2.png'
@@ -32,8 +34,13 @@ const Home = () => {
              <img src={photoPrincipal} />
             </ContainerPhotoPrincipal>
 
-            <h1 className="destaques">Destaques</h1>
+            <ContainerHighlights>
+            <h1>Destaques</h1>
+            </ContainerHighlights>
+
+            <ContainerShipping>
             <p>Frete grátis e chinelo de brinde é aqui,aproveite por tempo limitado.</p>
+            </ContainerShipping>
 
             <GridProducts>
 
@@ -70,8 +77,9 @@ const Home = () => {
             </CardProducts>
             
             </GridProducts>
+
             <Footer>
-                <p>Todos os direitos reservados.</p>
+                <p className="phraseFooter">Todos os direitos reservados.</p>
             </Footer>
         </div>
     )
