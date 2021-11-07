@@ -4,12 +4,15 @@ export const BlackBelt = styled.div`
 display: flex;
 background-color: #181818;
 height: 60px;
-text-align: center;
-
+display: flex;
+align-items: center;
+justify-content: center;
 p{
     font-family: 'Montserrat', sans-serif;
     color: white;
     font-size: 16px;
+   
+
 
 ::selection{
     background-color: #EBE9EA;
@@ -27,7 +30,12 @@ h1{
     color: #181818;
     font-size: 24px;
     margin: 20px 0;
+    line-height:60px;
 
+::selection{
+    background-color: #EBE9EA;
+    color: #181818;
+}
 }
 
 
@@ -37,7 +45,13 @@ export const ContainerPhotoPrincipal = styled.div`
 img{
     width: 100%;
     height: 480px;
-    filter: brightness(50%)
+    filter: brightness(50%);
+    -moz-user-select: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    -webkit-user-drag: none;
+    -webkit-touch-callout: none;
 }
 
 `
@@ -62,15 +76,6 @@ p{
     font-size: 18px;
 }
 
-
-&.destaques{
- h1{
-    font-family: 'Montserrat', sans-serif;
-    font-size: 32px;
-    color: #181818;
- }
- 
-}
 `
 
 
@@ -89,11 +94,18 @@ img{
 	-moz-transition: all 0.3s;
 	-webkit-transition: all 0.3s;
 	transition: all 0.3s;
+    -moz-user-select: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    -webkit-user-drag: none;
+    -webkit-touch-callout: none;
   
 :hover{
     -moz-transform: scale(1.1);
 	-webkit-transform: scale(1.1);
 	transform: scale(1.1);
+    cursor: pointer;
 }
 }
 
@@ -116,5 +128,48 @@ text-align: center;
 p{
     color: white;
     font-family: 'Montserrat',sans-serif;
+
+::selection{
+    background-color: #EBE9EA;
+    color: #181818;
+}
+
+&.phraseFooter{
+    line-height:60px;
+}
 }
 `
+
+export const ContainerHighlights = styled.div`
+display: flex;
+align-items: center;
+justify-content: center;
+
+h1{
+    color: #181818;
+    font-size: 32px;
+    font-family: 'Montserrat', sans-serif;
+    
+::selection{
+    background-color: #EBE9EA;
+    color: #181818;
+}
+}
+
+`
+
+export const ContainerShipping = styled.div`
+display: flex;
+align-items: center;
+justify-content: center;
+p{
+    color: #181818;
+    font-size: 18px;
+    font-family: 'Montserrat', sans-serif;
+    margin-top: -4px;
+
+::selection{
+    background-color: #EBE9EA;
+    color: #181818;
+}
+}`
