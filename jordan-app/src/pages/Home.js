@@ -32,6 +32,8 @@ const Home = () => {
 
             <ContainerPhotoPrincipal>
              <img src={photoPrincipal} />
+             <b><p className="texto">A melhor loja de Jordan</p></b>
+             <p className="textoAbaixo">O tênis Jordan é fruto de uma velha e forte parceria entre a Nike e o jogador Michael Jordan.</p>
             </ContainerPhotoPrincipal>
 
             <ContainerHighlights>
@@ -42,7 +44,7 @@ const Home = () => {
             <p>Frete grátis e chinelo de brinde é aqui,aproveite por tempo limitado.</p>
             </ContainerShipping>
 
-            <GridProducts>
+            <GridProducts className="position">
 
             <CardProducts>
             <img src={shoesOne}/>
@@ -86,10 +88,3 @@ const Home = () => {
 }
 
 export default Home
-
-   {/*
-
-            <ContainerHeader>
-            <p>O tênis Jordan é fruto de uma velha e forte parceria entre a Nike e o jogador Michael Jordan.</p>
-            </ContainerHeader> */}
-            // <h1 className="title">A melhor loja de Jordan</h1>
