@@ -14,10 +14,14 @@ Desafio 2 da comunidade Codelândia Discord. O objetivo do desafio é reproduzir
 
 ## Tecnologias utilizadas
 
-Aplicação react.js 
-styled-components
+* Aplicação react.js 
+* styled-components
+* Visual Studio
+
 
 ## Aprendizados
+* Listar o que aprendi
+* Aqui tbm
 
 <hr/>
 
