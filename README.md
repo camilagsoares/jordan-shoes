@@ -2,7 +2,9 @@
  👟  <br> Jordan Shoes  </h1>
  
 
-<a href="/" align="center"> <p>Clique para visitar o projeto</p> </a>
+<p align="center">
+  <a href="/">Visite o projeto</a>
+</p>
 
 ## Sobre o projeto:
 
