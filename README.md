@@ -20,7 +20,8 @@ O desafio Jordan Shoes foi criado por <a href="https://github.com/iuricode">Iuri
 * React.js
 * Styled-components
 * Visual Studio Code
-* Lib AOS
+* Lib Animate on Scroll (AOS)
+
 
 
 ## Aprendizados
