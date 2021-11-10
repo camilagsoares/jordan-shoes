@@ -1,7 +1,8 @@
 <h1 align="center">
  👟  <br> Jordan Shoes  </h1>
  
-<a href="/"> <p>Clique para visitar o projeto</p> </a>
+
+<a href="/" align="center"> <p>Clique para visitar o projeto</p> </a>
 
 ## Sobre o projeto:
 
