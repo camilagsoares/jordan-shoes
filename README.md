@@ -1,8 +1,5 @@
 <h1 align="center">
-   <br> Jordan Shoes 👟 </h1>
-
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/camilagsoares/jordan-shoes?color=36BDED">
-
+ 👟  <br> Jordan Shoes  </h1>
 
 ## Sobre o projeto:
 
@@ -24,5 +21,7 @@ O desafio Jordan Shoes foi criado por <a href="https://github.com/iuricode">Iuri
 * Listar o que aprendi
 * Aqui tbm
 
+
+<br>
 
 <p> Feito por Camila Goulart 💖</p>
