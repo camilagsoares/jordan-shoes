@@ -7,14 +7,18 @@
 O desafio Jordan Shoes foi criado por <a href="https://github.com/iuricode">Iuri Code</a> para participantes da comunidade Codelândia no Discord.
 Desafio 2 da comunidade Codelândia Discord. O objetivo do desafio é reproduzir o layout com as tecnologias desejadas.
 
+## Versão desktop 💻
 
 
-### Tecnologias utilizadas
+## Versão mobile 📱
+
+## Tecnologias utilizadas
 
 Aplicação react.js 
 styled-components
 
+## Aprendizados
 
 <hr/>
 
-<p> Feito por Camila Goulart </p>
+<p> Feito por Camila Goulart 💖</p>
