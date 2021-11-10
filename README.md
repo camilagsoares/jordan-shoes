@@ -15,8 +15,8 @@ O desafio Jordan Shoes foi criado por <a href="https://github.com/iuricode">Iuri
 
 ## 🛠 Tecnologias utilizadas
 
-* Aplicação react.js 
-* styled-components
+* React.js
+* Styled-components
 * Visual Studio
 
 
