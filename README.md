@@ -9,6 +9,12 @@ Desafio 2 da comunidade Codelândia Discord. O objetivo do desafio é reproduzir
 
 
 
-### Tecnologias
+### Tecnologias utilizadas
+
 Aplicação react.js 
 styled-components
+
+
+<hr/>
+
+<p> Feito por Camila Goulart </p>
