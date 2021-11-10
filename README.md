@@ -1,6 +1,8 @@
 <h1 align="center">
   👟 <br> Jordan Shoes </h1>
 
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/camilagsoares/jordan-shoes?color=ED8936">
+
 
 ## Sobre o projeto:
 
