@@ -14,6 +14,8 @@ O desafio Jordan Shoes foi criado por <a href="https://github.com/iuricode">Iuri
 
 https://user-images.githubusercontent.com/85360804/141314851-d216ec6f-5b30-4083-b633-976453f7ba78.mp4
 
+![gif (1)](https://user-images.githubusercontent.com/85360804/141317208-cbc0a506-527e-44ff-bcdb-ac95b9a436e7.gif)
+
 
 
 ## 📱 Versão mobile 
