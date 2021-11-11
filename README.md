@@ -6,20 +6,19 @@
   <a href="https://jordan-shoes-app.surge.sh/">Visite o projeto</a>
 </p>
 
-## Sobre o projeto:
-
+## Sobre o desafio:
 O desafio Jordan Shoes foi criado por <a href="https://github.com/iuricode">Iuri Code</a> para participantes da comunidade Codelândia no Discord. O objetivo do desafio é reproduzir o layout com as tecnologias desejadas.
 
-## 💻 Versão desktop 
+## Sobre o projeto:
+Durante o projeto,foi utilizado: 
+* Display grid para alinhar os produtos
+* TypeWriter no header para criar um efeito de digitação
+
+## 💻 Preview
 
 https://user-images.githubusercontent.com/85360804/141314851-d216ec6f-5b30-4083-b633-976453f7ba78.mp4
 
-## 📱 Versão mobile 
-
-![phone](https://user-images.githubusercontent.com/85360804/141317921-a898d34b-bf46-4771-b719-013736501b95.png)
-
-
-## 🛠 Tecnologias utilizadas
+## 🛠 Tecnologias e ferramentas utilizadas
 
 * React.js
 * Styled-components
