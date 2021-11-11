@@ -3,7 +3,7 @@
  
 
 <p align="center">
-  <a href="https://jordan-shoes-app.surge.sh/">Visite o projeto</a>
+  <a href="https://jordan-shoes-app.surge.sh/" target="_blank">Visite o projeto</a>
 </p>
 
 ## Sobre o projeto:
