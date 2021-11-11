@@ -16,7 +16,7 @@ Durante o projeto,foi utilizado:
 
 ## 💻 Preview
 
-https://user-images.githubusercontent.com/85360804/141314851-d216ec6f-5b30-4083-b633-976453f7ba78.mp4
+![desktop](https://user-images.githubusercontent.com/85360804/141331619-b20713fd-0004-4c32-ab72-fc1ede876b71.png)
 
 ## 🛠 Tecnologias e ferramentas utilizadas
 
