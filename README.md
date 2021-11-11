@@ -3,7 +3,7 @@
  
 
 <p align="center">
-  <a href="https://jordan-shoes-app.surge.sh/" target="_blank">Visite o projeto</a>
+  <a href="https://jordan-shoes-app.surge.sh/">Visite o projeto</a>
 </p>
 
 ## Sobre o projeto:
@@ -25,12 +25,6 @@ https://user-images.githubusercontent.com/85360804/141314851-d216ec6f-5b30-4083-
 * Styled-components
 * Visual Studio Code
 * Lib Animate on Scroll (AOS)
-* Grid layout
-
-## Aprendizados
-* Listar o que aprendi
-* Aqui tbm
-
 
 <br>
 
