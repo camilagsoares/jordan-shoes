@@ -16,8 +16,7 @@ https://user-images.githubusercontent.com/85360804/141314851-d216ec6f-5b30-4083-
 
 ## 📱 Versão mobile 
 
-
-https://user-images.githubusercontent.com/85360804/141317676-4552bb43-3e54-4943-9994-c2831ea7da98.mp4
+![phone](https://user-images.githubusercontent.com/85360804/141317921-a898d34b-bf46-4771-b719-013736501b95.png)
 
 
 
