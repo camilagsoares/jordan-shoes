@@ -3,7 +3,7 @@
  
 
 <p align="center">
-  <a href="/">Visite o projeto</a>
+  <a href="https://jordan-shoes-app.surge.sh/">Visite o projeto</a>
 </p>
 
 ## Sobre o projeto:
@@ -19,7 +19,6 @@ https://user-images.githubusercontent.com/85360804/141314851-d216ec6f-5b30-4083-
 ![phone](https://user-images.githubusercontent.com/85360804/141317921-a898d34b-bf46-4771-b719-013736501b95.png)
 
 
-
 ## 🛠 Tecnologias utilizadas
 
 * React.js
@@ -27,8 +26,6 @@ https://user-images.githubusercontent.com/85360804/141314851-d216ec6f-5b30-4083-
 * Visual Studio Code
 * Lib Animate on Scroll (AOS)
 * Grid layout
-
-
 
 ## Aprendizados
 * Listar o que aprendi
