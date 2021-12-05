@@ -11,9 +11,9 @@ O desafio Jordan Shoes foi criado por <a href="https://github.com/iuricode">Iuri
 
 ## Sobre o projeto:
 Durante o projeto,foi utilizado: 
-* Display grid para alinhar os produtos
-* TypeWriter no header para criar um efeito de digitação
-* media queries para torna-lo responsivo
+* Grid Layout
+* TypeWriter
+* Media Queries
 
 
 ## 💻 Preview
